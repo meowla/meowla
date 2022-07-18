@@ -1,8 +1,8 @@
 - 👋 Hey there, I’m @meowla from Sichuan University of China
 - 👀 I’m interested in Mathmatics and Artificial Intelligence
 - 🌱 I’m currently learning Basic Mathmatics
-- 💞️ I’m looking to collaborate on some interesting works about Codes and Mathmatics.
-- 📫 How to reach me : Email me at redmooncow@163.com
+- 💞️ I’m looking to collaborate on interesting works about coding or mathmatics.
+- 📫 Welcome to contact me for mathmatical problems at redmooncow@163.com
 
 <!---
 meowla/meowla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
